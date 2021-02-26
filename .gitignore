@@ -17,3 +17,4 @@ apps/
 chromeDriver
 
 package-lock.json
+page-screens/
